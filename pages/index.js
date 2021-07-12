@@ -25,7 +25,7 @@ export default function Home() {
     'juunegreiros', 
     'omariosouto',
     'marcobrunodev',
-    'rafaballerini',
+    'zThanael',
     'felipefialho',
     'peas'
   ]
